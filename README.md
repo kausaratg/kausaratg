@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello there.
-<h1>I am Kassy</h1>
+<h1>I am Kassy.</h1>
 <h2>Aspiring software developer</h2>
