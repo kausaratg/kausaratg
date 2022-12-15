@@ -2,7 +2,7 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="9%" height="9%" /> </h1>
 <h3> I'm Giwa Kausarat Mojoyinola: </h3>
 
-- 🌱 Currently Improving in my Software Development skills - HTML, CSS, Python, Django, Git, Rest Framework.
+- 🌱 Currently Improving my Software Development skills - HTML, CSS, Python, Django, Git, Rest Framework.
 
 - 👯 Looking to collaborate with other Software Engineers to build amazing solutions.
 
